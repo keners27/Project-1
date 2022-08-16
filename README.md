@@ -23,7 +23,15 @@ project
 |
 |__ Employment_Underemployment/        # contains data and notebooks
 |   |__ employment_analysis.ipynb      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
+<<<<<<< Updated upstream
 |   |__ school_data_analysis.ipynb     # analysis notebook that contains charts
+=======
+|   |__ Output          # cleaned data & snippets from jupyter
+|   |__ Resources       # raw data
+|
+|__ Crime Data/        # contains data and notebooks
+|   |__ Crime in state.ipynb      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
+>>>>>>> Stashed changes
 |   |__ Output          # cleaned data & snippets from jupyter
 |   |__ Resources       # raw data
 |
@@ -31,13 +39,21 @@ project
 # Questions
 1. Crime
 2. Underemployment
+<<<<<<< Updated upstream
 3. Schools
+=======
+3. Which Australian state would be the best for children to attend?
+>>>>>>> Stashed changes
 4. Housing
 
 # Datasets
 |No|Source|Link|
 |-|-|-|
+<<<<<<< Updated upstream
 |1|Australian Institue of Health and Welfare|https://www.housingdata.gov.au/|
+=======
+|1|Australian Bureau of Statistics - Housing|https://www.abs.gov.au/statistics/people/housing/housing-occupancy-and-costs/2019-20|
+>>>>>>> Stashed changes
 |2|Australian Curriculum, Assessment and Reporting Authority|https://www.acara.edu.au/contact-us/acara-data-access|
 |3|Australian Bureau of Statistics - Crime and Justice|https://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-offenders/2020-21#data-download|
 |4|Australian Bureau of Statistics - Labour Force|https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release#key-statistics|
