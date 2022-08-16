@@ -61,9 +61,9 @@ project
 
 ### Question 3 - Schools
 
-![chart](./School Data/Output/ICSEA_Bar.png)
+![chart](./School%20Data/Output/ICSEA_Bar.png)
 
-![chart](./School Data/Output/Class Size.png)
+![chart](./School%20Data/Output/Class%20Size.png)
 
 ### Question 4 - Housing
 
