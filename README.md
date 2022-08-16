@@ -73,6 +73,11 @@ Class size is a factor in a students learning. Using the Full Time Equivalent En
 
 ### Question 4 - Housing
 
+The most affordable state using the mean housing costs. 
+According to the ABS website the definition of housing costs is are defined as the sum of rent payments; rate payments (water and general); and mortgage or unsecured loan payments (if the initial purpose of the loan was primarily to buy, add, or alter the dwelling).
+
+The charts below show the mean housing costs for couples with dependent children and one parent families with dependent children across the states over a 5 year period.
+
 ![chart](./Housing%20Data%20Complete/Images/Mean%20Housing%20Cost%20for%20couple%20family%20with%20dependent%20children.png)
 
 ![chart](./Housing%20Data%20Complete/Images/Mean%20Housing%20Cost%20for%20single%20family%20with%20dependent%20children.png)
