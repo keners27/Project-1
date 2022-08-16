@@ -59,7 +59,7 @@ project
 ### Question 2 - Underemployment
 
 
-### Question 3 - Schools
+### Question 3 - Which Australian state would be the best for children to attend?
 
 The Index of Community Socio-educational Advantage (ICSEA) is a scale of socio-economic advantage that takes data collected about student family backgrounds and the variables that have statistically strong correlation to student performance and calculates the value on a scale with a median of 1000 and a standard deviation of 100.
 
