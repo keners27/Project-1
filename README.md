@@ -67,5 +67,8 @@ project
 
 ### Question 4 - Housing
 
+![chart](./Housing%20Data%20Complete/Images/Mean%20Housing%20Cost%20for%20couple%20family%20with%20dependent%20children.png)
+
+![chart](./Housing%20Data%20Complete/Images/Mean%20Housing%20Cost%20for%20single%20family%20with%20dependent%20children.png)
 
 ### Question 5 - Based on these criteria which state is best to live in?
