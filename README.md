@@ -80,6 +80,13 @@ The charts below show the mean housing costs for couples with dependent children
 
 ![chart](./Housing%20Data%20Complete/Images/Mean%20Housing%20Cost%20for%20couple%20family%20with%20dependent%20children.png)
 
+The data shows that the most affordable state for a couple with dependent children in 2019-20 was Tasmania.
+The mean housing cost remained comparable across the 5 years from 2015-20
+The data shows that the least affordable state for a couple with dependent children in 2019-20 was NSW.
+
 ![chart](./Housing%20Data%20Complete/Images/Mean%20Housing%20Cost%20for%20single%20family%20with%20dependent%20children.png)
+The data shows that the most affordable state for one parent with dependent children in 2019-20 was Tasmania.
+The mean housing cost also remained comparable across the 5 years from 2015-20
+The data shows that the least affordable state for a couple with dependent children in 2019-20 was NSW.
 
 ### Question 5 - Based on these criteria which state is best to live in?
