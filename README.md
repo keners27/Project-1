@@ -31,18 +31,13 @@ project
 |   |__ Output          # cleaned data & snippets from jupyter
 |   |__ Resources       # raw data
 |
-|__ Housing Data/        # contains data and notebooks
-|   |__ housing_data.ipynb      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
-|   |__ Output          # cleaned data & snippets from jupyter
-|   |__ Resources       # raw data
-|
 ```
 # Questions
 1. Crime
 2. Underemployment
-3. Schools
 3. Which Australian state would be the best for children to attend?
 4. Housing
+5. Based on these criteria which state is best to live in?
 
 # Datasets
 |No|Source|Link|
@@ -65,3 +60,6 @@ project
 
 
 ### Question 4 - Housing
+
+
+### Question 5 - Based on these criteria which state is best to live in?
