@@ -31,6 +31,10 @@ project
 |   |__ Output          # cleaned data & snippets from jupyter
 |   |__ Resources       # raw data
 |
+|__ Housing Data Complete/        # contains data and notebooks
+|   |__ Housing Data      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
+|   |__Images          # cleaned data & snippets from jupyter
+|   |__ Resources       # raw data
 ```
 # Questions
 1. Crime
