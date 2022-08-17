@@ -54,7 +54,22 @@ project
 # Analysis
 
 ### Question 1 - Crime
+The ABS has public data on recorded crime offences available online and updated yearly.
+Using this data, we are able to make an accurate assumption of which State would be the safest to live in. 
 
+![chart](./Crime%20Data/images/Graph1.png)
+
+The above shows the offender rate per 100,000 persons over the last 5 years. 
+All states have gradually declined and made improvements on having less offenders. The 5 largest states are have similar averages.
+Northern Territory has by far the highest amount of offender rates with one of the smallest populations.
+ACT has the lowest offender rate while still declining showing it to be the safest State in Australia.
+
+![chart](./Crime%20Data/images/Graph2.png)
+
+The above graph shows the recorded offences in 2021 relating to either theft, illicit drug usage or violent acts.
+SA & QLD have a higher illicit drug offences and correlates to more violent acts.
+NT & NSW have significantly higher acts intended to cause injury compared to minor offences.
+ACT has the lowest offender rates in all 3 categories.
 
 ### Question 2 - Underemployment
 
