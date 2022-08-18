@@ -22,23 +22,25 @@ project
 |   |__ Resources     # raw data
 |
 |__ Employment_Underemployment/        # contains data and notebooks
-|   |__ employment_analysis.ipynb      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
-|   |__ Output          # cleaned data & snippets from jupyter
+|   |__Analysis_Underemployment_Unemployment.ipynb # analysis notebook that contains charts
+|   |__ underemployment_data_cleaning.ipynb      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
+|   |__ unemployment_data_cleaning.ipynb      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
+|   |__ Figures          # cleaned data & snippets from jupyter
 |   |__ Resources       # raw data
 |
 |__ Crime Data/        # contains data and notebooks
-|   |__ Crime in state.ipynb      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
+|   |__ Crime in state.ipynb      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis, includes analysis and charts
 |   |__ Output          # cleaned data & snippets from jupyter
 |   |__ Resources       # raw data
 |
 |__ Housing Data Complete/        # contains data and notebooks
-|   |__ Housing Data      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
+|   |__ Housing Data      # cleaning notebook that takes in the raw data and outputs cleaned data for analysis, includes analysis and charts
 |   |__Images          # cleaned data & snippets from jupyter
 |   |__ Resources       # raw data
 ```
 # Questions
 1. Which state is the safest?
-2. Underemployment
+2. Which state is the best of employment opportunities?
 3. Which state would be the best for children to attend?
 4. Which state is the most affordable for a family?
 5. Based on these criteria which state is best to live in?
@@ -71,8 +73,11 @@ SA & QLD have a higher illicit drug offences and correlates to more violent acts
 NT & NSW have significantly higher acts intended to cause injury compared to minor offences.
 ACT has the lowest offender rates in all 3 categories.
 
-### Question 2 - Underemployment
+### Question 2 - Which state is the best of employment opportunities?
 
+![chart](./Employment_Unemployment/Figures/Unemployment.png)
+
+![chart](./Employment_Unemployment/Figures/Underemployment.png)
 
 ### Question 3 - Which Australian state would be the best for children to attend?
 
