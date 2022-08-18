@@ -40,7 +40,7 @@ project
 ```
 # Questions
 1. Which state is the safest?
-2. Which state is the best of employment opportunities?
+2. Which state is the best for employment opportunities?
 3. Which state would be the best for children to attend?
 4. Which state is the most affordable for a family?
 5. Based on these criteria which state is best to live in?
