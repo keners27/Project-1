@@ -40,7 +40,7 @@ project
 ```
 # Questions
 1. Which state is the safest?
-2. Which state is the best of employment opportunities?
+2. Which state is the best for employment opportunities?
 3. Which state would be the best for children to attend?
 4. Which state is the most affordable for a family?
 5. Based on these criteria which state is best to live in?
@@ -112,4 +112,4 @@ The data shows that the least affordable state for a couple with dependent child
 
 ### Question 5 - Based on these criteria which state is best to live in?
 
-From the analysis above the Australian Capital Territory is the best Australian states to live in according to the cirteria chosen by our research group.
+From the analysis above the Australian Capital Territory is the best Australian state to live in according to the cirteria chosen by our research group.
