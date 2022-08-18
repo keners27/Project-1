@@ -112,4 +112,4 @@ The data shows that the least affordable state for a couple with dependent child
 
 ### Question 5 - Based on these criteria which state is best to live in?
 
-From the analysis above Tasmania and the Australian Capital Territory are the best Australian states to live in according to our criteria.
+From the analysis above Tasmania and the Australian Capital Territory are the best Australian states to live in according to the cirteria chosen by our research group.
