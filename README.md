@@ -37,10 +37,10 @@ project
 |   |__ Resources       # raw data
 ```
 # Questions
-1. Crime
+1. Which state is the safest?
 2. Underemployment
-3. Which Australian state would be the best for children to attend?
-4. Housing
+3. Which state would be the best for children to attend?
+4. Which state is the most affordable for a family?
 5. Based on these criteria which state is best to live in?
 
 # Datasets
@@ -53,7 +53,7 @@ project
 
 # Analysis
 
-### Question 1 - Crime
+### Question 1 - Which state is the safest?
 The ABS has public data on recorded crime offences available online and updated yearly.
 Using this data, we are able to make an accurate assumption of which State would be the safest to live in. 
 
@@ -86,7 +86,7 @@ The above graph narrows the data to three years and also starts at an ICSEA of 7
 
 Class size is a factor in a students learning. Using the Full Time Equivalent Enrollment and divided by the Full Time Teaching Equivalent I calculated the average class size per school. Then calculated the average size of a class per state. Based on the above graph the class sizes overall have been rapidly decreasing through the years. Tasmania however has the smallest class sizes in 2020 and therefore is the state that is the best in this category.
 
-### Question 4 - Housing
+### Question 4 - Which state is the most affordable for a family?
 
 The most affordable state using the mean housing costs. 
 According to the ABS website the definition of housing costs is are defined as the sum of rent payments; rate payments (water and general); and mortgage or unsecured loan payments (if the initial purpose of the loan was primarily to buy, add, or alter the dwelling).
@@ -100,8 +100,11 @@ The mean housing cost remained comparable across the 5 years from 2015-20
 The data shows that the least affordable state for a couple with dependent children in 2019-20 was NSW.
 
 ![chart](./Housing%20Data%20Complete/Images/Mean%20Housing%20Cost%20for%20single%20family%20with%20dependent%20children.png)
+
 The data shows that the most affordable state for one parent with dependent children in 2019-20 was Tasmania.
 The mean housing cost also remained comparable across the 5 years from 2015-20
 The data shows that the least affordable state for a couple with dependent children in 2019-20 was NSW.
 
 ### Question 5 - Based on these criteria which state is best to live in?
+
+From the analysis above Tasmania and the Australian Capital Territory are the best Australian states to live in according to our criteria.
