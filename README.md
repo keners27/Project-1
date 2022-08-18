@@ -66,7 +66,7 @@ ACT has the lowest offender rate while still declining showing it to be the safe
 
 ![chart](./Crime%20Data/images/Graph2.png)
 
-The above graph shows the recorded offences in 2021 relating to either theft, illicit drug usage or violent acts.
+The above bar graph shows the recorded offences in 2021 relating to either theft, illicit drug usage or violent acts.
 SA & QLD have a higher illicit drug offences and correlates to more violent acts.
 NT & NSW have significantly higher acts intended to cause injury compared to minor offences.
 ACT has the lowest offender rates in all 3 categories.
