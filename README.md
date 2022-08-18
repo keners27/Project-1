@@ -13,7 +13,7 @@ Contributors - Caroline Badocha, Daniel Kenworthy, Jose Sandoval & Balvinder Raj
 ```
 project
 |__ .gitignore          # gitignore file
-|__ requirements.txt    # conda environment
+|__ Project 1 PPT - Group6.pdf    # slides for presentation
 | 
 |__ School Data/        # contains data and notebooks
 |   |__ school_data_clean.ipynb         # cleaning notebook that takes in the raw data and outputs cleaned data for analysis
