@@ -40,7 +40,7 @@ project
 ```
 # Questions
 1. Which state is the safest?
-2. Which state is the best for employment opportunities?
+2. Which state is the best of employment opportunities?
 3. Which state would be the best for children to attend?
 4. Which state is the most affordable for a family?
 5. Based on these criteria which state is best to live in?
@@ -75,9 +75,20 @@ ACT has the lowest offender rates in all 3 categories.
 
 ### Question 2 - Which state is the best of employment opportunities?
 
+For this question the information was sourced from the ABS:  "Underutilised persons by State and Territory and Sex - Trend, Seasonally adjusted and Original"  
+For context, better understanding and according to the ABS:
+-Underemployment is classified as persons who are not fully employed according to whether they are looking for and/or available to start work with more hours. 
+-Unemployement is classified as persons who during a specified reference period, is not employed for one hour or more, is actively seeking work, and is currently available for work.
+
 ![chart](./Employment_Unemployment/Figures/Unemployment.png)
 
 ![chart](./Employment_Unemployment/Figures/Underemployment.png)
+
+From the charts & analysis we can conclude the following:
+Based on both Unemployment and Underemployment criteria, Northern Territory and Australian Capital Territory have the lowest rates.
+In Addition, Western Australia and Australian Capital Territory had more resistance to change in the status in relation to the Covid-19 Pandemic
+The relation between both criterias is evident. Although presenting different figures, when illustrated in the line chart their identical which denotes the close relation between them.  
+
 
 ### Question 3 - Which Australian state would be the best for children to attend?
 
@@ -112,4 +123,4 @@ The data shows that the least affordable state for a couple with dependent child
 
 ### Question 5 - Based on these criteria which state is best to live in?
 
-From the analysis above the Australian Capital Territory is the best Australian state to live in according to the cirteria chosen by our research group.
+From the analysis above the Australian Capital Territory is the best Australian states to live in according to the cirteria chosen by our research group.
